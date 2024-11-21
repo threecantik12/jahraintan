@@ -2,19 +2,19 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #lightblue;
+    background-color: lightblue;
 }
 
 header {
-    background: #35424a;
-    color: #lightblue;
+    background: #ADD8E6;
+    color: lightblue;
     padding: 10px 0;
     text-align: center;
 }
 
 nav {
-    background: #35424a;
-    color: #lightblue;
+    background: #ADD8E6; 
+    color: lightblue;
 }
 
 nav ul {
@@ -37,7 +37,7 @@ main {
 }
 
 section {
-    background: #lightblue;
+    background: lightblue;
     padding: 10px;
     border-radius: 5px;
 }
@@ -59,8 +59,8 @@ th, td {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #35424a;
-    color: #lightblue;
+    background: #ADD8E6;
+    color: lightblue;
     position: relative;
     bottom: 0;
     width: 100%;
