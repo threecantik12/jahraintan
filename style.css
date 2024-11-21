@@ -2,19 +2,19 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #lightblue;
 }
 
 header {
     background: #35424a;
-    color: #ffffff;
-    padding: 20px 0;
+    color: #lightblue;
+    padding: 10px 0;
     text-align: center;
 }
 
 nav {
     background: #35424a;
-    color: #ffffff;
+    color: lightblue;
 }
 
 nav ul {
@@ -33,17 +33,17 @@ nav ul li a {
 }
 
 main {
-    padding: 20px;
+    padding: 10px;
 }
 
 section {
-    background: #ffffff;
-    padding: 20px;
+    background: #lightblue;
+    padding: 10px;
     border-radius: 5px;
 }
 
 table {
-    width: 100%;
+    width: 50%;
     border-collapse: collapse;
 }
 
@@ -60,7 +60,7 @@ footer {
     text-align: center;
     padding: 10px 0;
     background: #35424a;
-    color: #ffffff;
+    color: #lightblue;
     position: relative;
     bottom: 0;
     width: 100%;
